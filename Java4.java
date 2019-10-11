@@ -9,6 +9,7 @@ public class Java4 {
 		String address = "Arberi, Gjilan";
 		String country = "Kosovo";
 		String nationality = "Kosovr";
+		String faculty = "Computer Science";
 		
 		
 		System.out.println("ID: " + id);
@@ -19,5 +20,6 @@ public class Java4 {
 		System.out.println("Address: " + address);
 		System.out.println("Country: " + country);
 		System.out.println("Nationality: " + nationality);
+		System.out.println("Faculty: " + faculty);
 	}
 }
