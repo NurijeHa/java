@@ -3,13 +3,15 @@ public class Java4 {
 		
 		int id = 1;
 		String name = "Nurije";
+		String surname = "Haliti";
 		int age = 23;
 		String address = "Gjilan";
 		
 		
-		System.out.println(id);
-		System.out.println(name);
-		System.out.println(age);
-		System.out.println(address);
+		System.out.println("ID: " + id);
+		System.out.println("Name: " + name);
+		System.out.println("Surname: " + surname);
+		System.out.println("Ages: " + age);
+		System.out.println("Address: " + address);
 	}
 }
