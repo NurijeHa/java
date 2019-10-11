@@ -6,7 +6,8 @@ public class Java4 {
 		String surname = "Haliti";
 		int age = 23;
 		String dataBirth = "25.12.1995";
-		String address = "Gjilan";
+		String address = "Arberi, Gjilan";
+		String country = "Kosovo";
 		String nationality = "Kosovr";
 		
 		
@@ -16,6 +17,7 @@ public class Java4 {
 		System.out.println("Date of birth: " + dataBirth);
 		System.out.println("Ages: " + age);
 		System.out.println("Address: " + address);
+		System.out.println("Country: " + country);
 		System.out.println("Nationality: " + nationality);
 	}
 }
