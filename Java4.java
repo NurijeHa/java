@@ -5,13 +5,17 @@ public class Java4 {
 		String name = "Nurije";
 		String surname = "Haliti";
 		int age = 23;
+		String dataBirth = "25.12.1995";
 		String address = "Gjilan";
+		String nationality = "Kosovr";
 		
 		
 		System.out.println("ID: " + id);
 		System.out.println("Name: " + name);
 		System.out.println("Surname: " + surname);
+		System.out.println("Date of birth: " + dataBirth);
 		System.out.println("Ages: " + age);
 		System.out.println("Address: " + address);
+		System.out.println("Nationality: " + nationality);
 	}
 }
