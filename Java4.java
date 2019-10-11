@@ -12,6 +12,9 @@ public class Java4 {
 		String nationality ;
 		String faculty ;
 		
+		System.out.println("Welcome!");
+		System.out.println("Please fill in your details");
+		
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter your Name: ");
 		name = sc.nextLine();
@@ -36,12 +39,14 @@ public class Java4 {
 		System.out.println("Enter your Faculty: ");
 		faculty = sc.nextLine();
 		
-		
+	
 		System.out.println("Enter your Age: ");
 		age = sc.nextInt();
 		
 		sc.close();
 		
+		
+		System.out.println("Your details!");
 		System.out.println("ID: " + id);
 		System.out.println("Name: " + name);
 		System.out.println("Surname: " + surname);
