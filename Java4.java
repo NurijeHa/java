@@ -39,6 +39,7 @@ public class Java4 {
 		System.out.println("Enter your Faculty: ");
 		faculty = sc.nextLine();
 		
+		
 	
 		System.out.println("Enter your Age: ");
 		age = sc.nextInt();
